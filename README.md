@@ -2,7 +2,7 @@
 
 An online geocoding iOS sample app, modernized with suggestions and category support.The samples use ArcGIS Online basemaps and services.  Learn more [here](http://www.arcgis.com/about/).
 
-![App](https://github.com/ArcGIS/geocoding-with-suggestions-and-categories/master/geocoding-with-suggestions-and-categories.png)
+![App](geocoding-with-suggestions-and-categories.png)
 
 ## Features
 * Geocoding - Find and display addresses and POIs interactively
@@ -51,7 +51,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A copy of the license is available in the repository's [license.txt]( https://github.com/ArcGIS/geocoding-with-suggestions-and-categories/master/license.txt) file.
+A copy of the license is available in the repository's [license.txt](license.txt) file.
 
 [](Esri Tags: ArcGIS Geocoding Suggestions Categories)
 [](Esri Language: Objective-C)​
