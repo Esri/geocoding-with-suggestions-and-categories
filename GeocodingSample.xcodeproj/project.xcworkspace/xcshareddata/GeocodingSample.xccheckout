@@ -10,31 +10,31 @@
 	<string>GeocodingSample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DC69C90074B717793B3C6388AD949145987DEF2E</key>
-		<string>https://github.com/Esri/arcgis-runtime-samples-ios.git</string>
+		<key>F506657F5CF40EBAD2A1F041003688A93C2276D2</key>
+		<string>https://github.com/ArcGIS/geocoding-with-suggestions-and-categories.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GeocodingSample/objective-c/GeocodingSample.xcodeproj</string>
+	<string>GeocodingSample.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DC69C90074B717793B3C6388AD949145987DEF2E</key>
-		<string>../../../..</string>
+		<key>F506657F5CF40EBAD2A1F041003688A93C2276D2</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Esri/arcgis-runtime-samples-ios.git</string>
+	<string>https://github.com/ArcGIS/geocoding-with-suggestions-and-categories.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DC69C90074B717793B3C6388AD949145987DEF2E</string>
+	<string>F506657F5CF40EBAD2A1F041003688A93C2276D2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DC69C90074B717793B3C6388AD949145987DEF2E</string>
+			<string>F506657F5CF40EBAD2A1F041003688A93C2276D2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>runtime-samples-for-dev-summit</string>
+			<string>geocoding-with-suggestions-and-categories</string>
 		</dict>
 	</array>
 </dict>
