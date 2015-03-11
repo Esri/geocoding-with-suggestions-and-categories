@@ -14,12 +14,12 @@
 		28D7ACF80DDB3853001CB0EB /* GeocodingSampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* GeocodingSampleViewController.m */; };
 		3EE6BBF118E0F9E50092054A /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EE6BBF018E0F9E50092054A /* Storyboard.storyboard */; };
 		975E754E167A9620005FB57B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 975E754D167A9620005FB57B /* Default-568h@2x.png */; };
-		A05B99ED1AB09820009A5F0F /* open_categories.png in Resources */ = {isa = PBXBuildFile; fileRef = A05B99EC1AB0981F009A5F0F /* open_categories.png */; };
-		A05B99EF1AB09830009A5F0F /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = A05B99EE1AB09830009A5F0F /* search.png */; };
-		A05B99F21AB0983E009A5F0F /* zoom_in.png in Resources */ = {isa = PBXBuildFile; fileRef = A05B99F01AB0983E009A5F0F /* zoom_in.png */; };
-		A05B99F31AB0983E009A5F0F /* zoom_out.png in Resources */ = {isa = PBXBuildFile; fileRef = A05B99F11AB0983E009A5F0F /* zoom_out.png */; };
-		A08829421AA79D0700C9D99B /* checkbox_full.png in Resources */ = {isa = PBXBuildFile; fileRef = A08829411AA79D0700C9D99B /* checkbox_full.png */; };
-		A08829441AA79D0D00C9D99B /* checkbox_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = A08829431AA79D0D00C9D99B /* checkbox_empty.png */; };
+		A0559D7C1AB0D5F500629711 /* open_categories.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D7A1AB0D5F500629711 /* open_categories.png */; };
+		A0559D7D1AB0D5F500629711 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D7B1AB0D5F500629711 /* search.png */; };
+		A0559D801AB0D5FC00629711 /* zoom_in.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D7E1AB0D5FC00629711 /* zoom_in.png */; };
+		A0559D811AB0D5FC00629711 /* zoom_out.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D7F1AB0D5FC00629711 /* zoom_out.png */; };
+		A0559D881AB0D64B00629711 /* checkbox_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D861AB0D64B00629711 /* checkbox_empty.png */; };
+		A0559D891AB0D64B00629711 /* checkbox_full.png in Resources */ = {isa = PBXBuildFile; fileRef = A0559D871AB0D64B00629711 /* checkbox_full.png */; };
 		AF5531B2125BB3330070ED0C /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AF5531B0125BB3330070ED0C /* icon.png */; };
 		AF5531B3125BB3330070ED0C /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF5531B1125BB3330070ED0C /* icon@2x.png */; };
 		C56B3F9D14C63EDA003A46EB /* ArcGIS.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C56B3F9C14C63EDA003A46EB /* ArcGIS.bundle */; };
@@ -39,12 +39,12 @@
 		3EE6BBF018E0F9E50092054A /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* GeocodingSample-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GeocodingSample-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		975E754D167A9620005FB57B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		A05B99EC1AB0981F009A5F0F /* open_categories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = open_categories.png; path = ../../../Desktop/Desktop/open_categories.png; sourceTree = "<group>"; };
-		A05B99EE1AB09830009A5F0F /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = search.png; path = ../../../Desktop/Desktop/search.png; sourceTree = "<group>"; };
-		A05B99F01AB0983E009A5F0F /* zoom_in.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = zoom_in.png; path = ../../../Desktop/Desktop/zoom_in.png; sourceTree = "<group>"; };
-		A05B99F11AB0983E009A5F0F /* zoom_out.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = zoom_out.png; path = ../../../Desktop/Desktop/zoom_out.png; sourceTree = "<group>"; };
-		A08829411AA79D0700C9D99B /* checkbox_full.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = checkbox_full.png; path = ../../GeometrySample/swift/GeometrySample/Images.xcassets/checkbox_full.imageset/checkbox_full.png; sourceTree = "<group>"; };
-		A08829431AA79D0D00C9D99B /* checkbox_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = checkbox_empty.png; path = "../../GeometrySample/objective-c/GeometrySample/images/checkbox_empty.png"; sourceTree = "<group>"; };
+		A0559D7A1AB0D5F500629711 /* open_categories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = open_categories.png; sourceTree = "<group>"; };
+		A0559D7B1AB0D5F500629711 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		A0559D7E1AB0D5FC00629711 /* zoom_in.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zoom_in.png; sourceTree = "<group>"; };
+		A0559D7F1AB0D5FC00629711 /* zoom_out.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zoom_out.png; sourceTree = "<group>"; };
+		A0559D861AB0D64B00629711 /* checkbox_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkbox_empty.png; sourceTree = "<group>"; };
+		A0559D871AB0D64B00629711 /* checkbox_full.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkbox_full.png; sourceTree = "<group>"; };
 		AF5531B0125BB3330070ED0C /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		AF5531B1125BB3330070ED0C /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		C56B3F9C14C63EDA003A46EB /* ArcGIS.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = ArcGIS.bundle; path = $HOME/Library/SDKs/ArcGIS/iOS/ArcGIS.framework/Versions/Current/Resources/ArcGIS.bundle; sourceTree = "<absolute>"; };
@@ -104,12 +104,12 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A05B99EE1AB09830009A5F0F /* search.png */,
-				A05B99EC1AB0981F009A5F0F /* open_categories.png */,
-				A05B99F01AB0983E009A5F0F /* zoom_in.png */,
-				A05B99F11AB0983E009A5F0F /* zoom_out.png */,
-				A08829431AA79D0D00C9D99B /* checkbox_empty.png */,
-				A08829411AA79D0700C9D99B /* checkbox_full.png */,
+				A0559D861AB0D64B00629711 /* checkbox_empty.png */,
+				A0559D871AB0D64B00629711 /* checkbox_full.png */,
+				A0559D7E1AB0D5FC00629711 /* zoom_in.png */,
+				A0559D7F1AB0D5FC00629711 /* zoom_out.png */,
+				A0559D7A1AB0D5F500629711 /* open_categories.png */,
+				A0559D7B1AB0D5F500629711 /* search.png */,
 				975E754D167A9620005FB57B /* Default-568h@2x.png */,
 				1CF2FB351189EA0600D7A686 /* BluePushpin.png */,
 				AF5531B0125BB3330070ED0C /* icon.png */,
@@ -190,17 +190,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0559D881AB0D64B00629711 /* checkbox_empty.png in Resources */,
 				1CF2FB361189EA0600D7A686 /* BluePushpin.png in Resources */,
 				AF5531B2125BB3330070ED0C /* icon.png in Resources */,
 				AF5531B3125BB3330070ED0C /* icon@2x.png in Resources */,
-				A05B99F31AB0983E009A5F0F /* zoom_out.png in Resources */,
+				A0559D7D1AB0D5F500629711 /* search.png in Resources */,
+				A0559D801AB0D5FC00629711 /* zoom_in.png in Resources */,
 				C56B3F9D14C63EDA003A46EB /* ArcGIS.bundle in Resources */,
-				A08829441AA79D0D00C9D99B /* checkbox_empty.png in Resources */,
-				A05B99F21AB0983E009A5F0F /* zoom_in.png in Resources */,
-				A05B99EF1AB09830009A5F0F /* search.png in Resources */,
-				A08829421AA79D0700C9D99B /* checkbox_full.png in Resources */,
+				A0559D891AB0D64B00629711 /* checkbox_full.png in Resources */,
+				A0559D811AB0D5FC00629711 /* zoom_out.png in Resources */,
 				975E754E167A9620005FB57B /* Default-568h@2x.png in Resources */,
-				A05B99ED1AB09820009A5F0F /* open_categories.png in Resources */,
+				A0559D7C1AB0D5F500629711 /* open_categories.png in Resources */,
 				3EE6BBF118E0F9E50092054A /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
